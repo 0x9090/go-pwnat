@@ -7,3 +7,5 @@
 Don't try this yet
 
 ...But you can watch / star the repo to follow along!
+
+And check out Sammy's work @ https://samy.pl/pwnat/
