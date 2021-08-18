@@ -4,7 +4,7 @@
 
 *Work in progress*
 
-Don't try this yet
+Don't try this yet - it doesn't totally work
 
 ...But you can watch / star the repo to follow along!
 
