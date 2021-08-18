@@ -1,4 +1,4 @@
-#go-pwnat
+# go-pwnat
 
 ### The NAT-punching exploit pwnat.. but in Go.
 
